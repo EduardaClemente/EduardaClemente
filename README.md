@@ -2,7 +2,7 @@
 
 ##
 
-<text>Tenho 23 anos, moro na periferia do Grajaú. Desde de pequena sou aficionada em desmontar as coisas e montar de novo (as vezes diferente do ínicio, mas sempre funcionando), sou movida por curiosidade, e essas descobertas me trouxeram pra área de Tecnologia, na qual sou apaixonada! 💞 Sou uma padawan iniciante no mundo da programação e hobbista na área de eletrônica, passo meu tempo livre entre caçar bugs e se entreter com PCB's. Sempre em constante aprendizado e inovação, com orgulho de onde cheguei e ansiosa para o que ainda está por vir!
+<text>Tenho 23 anos, moro na periferia do Grajaú. Desde de pequena sou aficionada em desmontar as coisas e montar de novo (as vezes diferente do ínicio, as vezes funcionando, as vezes não), sou movida por curiosidade, e essas descobertas me trouxeram pra área de Tecnologia, na qual sou apaixonada! 💞 Sou uma padawan iniciante no mundo da programação e hobbista na área de eletrônica, passo meu tempo livre entre caçar bugs, se entreter com PCB's e queimar alguns leds e/ou capacitores. Sempre em constante aprendizado e inovação, com orgulho de onde cheguei e ansiosa para o que ainda está por vir!
 
 "Viu a necessidade? Atenda! Você pode brilhar não importa do que seja feito" - Grande Soldador, robôs. 🌈🌟</text>
 
