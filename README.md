@@ -11,7 +11,7 @@
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas que estou aprendendo: 
-<img width="300px" align="right" src="https://picrew.me/shareImg/org/202204/338224_8XqSdJqF.png">
+<img width="300px" align="right" src="https://media.giphy.com/media/DtseDoQgxI0xvv8rCa/giphy.gif">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
