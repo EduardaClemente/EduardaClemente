@@ -35,19 +35,19 @@
 <div display="inline-block">
  <p align="left">📚 Tenho estudado Java, CSS, HTML, JS ulitmamante e iniciei meus estudos com linguagem C, C++ e Python;</p>
  <p align="left">🪐 "Eu posso não ter ido para onde eu pretendia ir, mas eu acho que acabei terminando onde eu pretendia estar." Então pegue sua toalha e DON'T PANIC! </p>
- <p align="left">🤖 Comecei minhas aventuras com eletrônica análogica, depois digital. Placas e programação despertam o melhor que há em mim e sou fã de carterinha da AdaFruit, caso queira conversar, compartilhar projetos, me dá recomendações de livros ou até mesmo pedir um ajudinha, pode me encontrar aqui: <a href="https://www.instagram.com/poetavandal/">Instagram</a>. Segue lá e vamos crescer juntas!</p>
+ <p align="left">🤖 Comecei minhas aventuras com eletrônica análogica, depois digital. Placas e programação despertam o melhor que há em mim e sou fã de carterinha da AdaFruit, caso queira conversar, compartilhar projetos, me dá recomendações de livros ou até mesmo pedir um ajudinha, pode me encontrar aqui: <a href="https://www.instagram.com/marginal.maker/">Instagram</a>. Segue lá e vamos crescer juntas!</p>
  <p align="left">☕🎮 Só acordo com café, viciada em energética (e quem não?), amante dos games seja casual ou ranqueada. Ultimamente jogando: GrandChase, Fortnite e Deceit! </p>
  <p align="left">🌈👩‍❤️‍👩 Pronomes: Ela/Dela </p>
 </div>
 </div>
 </br>
-📫 Você pode falar comigo pelo <a href="https://www.instagram.com/poetavandal/">Instagram</a> ou pelo <a href="https://www.facebook.com/loljjjjkjs">Facebook</a> (posso demorar para responder, mas um(a) amigo(a) é sempre bem vindo(a)! =)
+📫 Você pode falar comigo pelo <a href="https://www.instagram.com/marginal.maker/">Instagram</a> ou pelo <a href="https://www.facebook.com/loljjjjkjs">Facebook</a> (posso demorar para responder, mas um(a) amigo(a) é sempre bem vindo(a)! =)
 </br>
 
  ##
  
 <div> 
-  <a href="https://www.instagram.com/poetavandal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/marginal.maker/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/spidergirl_42" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/fCVfkUTFVE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:clementine.mochileira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
