@@ -10,8 +10,9 @@
   <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350">
 </p>
 
+<p> <img width="300px" align="right"  src=""> </p> 
 ### 🖥️ Tecnologias e Ferramentas que estou aprendendo: 
-<p> <img width="300px" align="right"  src="https://picrew.me/shareImg/org/202204/338224_VczAzjAN.png"> </p> 
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"title = "VIM"/></code>
